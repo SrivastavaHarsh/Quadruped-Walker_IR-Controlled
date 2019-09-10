@@ -1,2 +1,2 @@
-# 4LeggedRobot_IRcontrolled
-This repository contains arduino code for a remote-controlled (Infrared) four-legged robot.
+# Quadruped-Walker_IR-Controlled
+This repository contains arduino code for a IR remote-controlled walker (Quadruped) robot.
